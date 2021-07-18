@@ -54,7 +54,7 @@ while True:
 
         name = None
         if match[0]:
-            name = "Looter"
+            name = "Person Detected"
 
         face_names.append(name)
 
